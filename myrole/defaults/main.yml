@@ -1,0 +1,4 @@
+---
+# defaults file for myrole
+admin_username: admin
+admin_password: ravi
